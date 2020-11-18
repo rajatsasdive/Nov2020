@@ -1,3 +1,4 @@
 Testing git lifecycle
 Second Line
 Third line
+Fourth Added
