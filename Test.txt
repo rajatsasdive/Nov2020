@@ -1,4 +1,4 @@
 Testing git lifecycle
-Second Line
-Third line
+Second Line was added
+Third line was added
 Fourth Added
